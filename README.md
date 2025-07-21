@@ -17,19 +17,19 @@ FocusFlow is a full-stack productivity tracking solution built using the MERN st
 
 A sleek and secure login popup to start tracking your focus session.
 
-![Login Demo](./assets/Login.png)
+![Login Demo](./extension/public/assets/Login.png)
 
 ### ⚙️ Settings Panel
 
 Easily block distracting websites (e.g., Facebook, Twitter) with a minimal UI.
 
-![Settings Demo](./assets/Settings.png)
+![Settings Demo](./extension/public/assets/Settings.png)
 
 ### 📊 Reports View
 
 Visual pie charts display your time distribution across sites for the day.
 
-![Reports Demo](./assets/Report.png)
+![Reports Demo](./extension/public/assets/Report.png)
 
 ---
 
